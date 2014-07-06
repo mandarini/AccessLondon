@@ -1,0 +1,18 @@
+Mode;DisabledCount;TotalCount;PercentageOfUsersThatAreDisabled;DisabledDistributionInModes;TotalDistibutionInModes
+Docklands Light Rail;87;9224;0.94;0.12;0.35
+Docklands Light Rail/Overground;0;4;0;0;0
+Trips to/from Heathrow;11;760;1.45;0.02;0.03
+London Overground;39;3713;1.05;0.05;0.14
+London Transport Buses;61465;1768080;3.48;83.9;67.39
+London Underground Ltd;9484;723126;1.31;12.95;27.56
+London Underground/DLR;51;13911;0.37;0.07;0.53
+London Underground/Overground;91;3293;2.76;0.12;0.13
+London Underground/National Rail;315;25990;1.21;0.43;0.99
+London Underground/National Rail/DLR;85;2812;3.02;0.12;0.11
+London Underground/National Rail/Overground;169;8262;2.05;0.23;0.31
+London Underground/Tram;0;86;0;0;0
+National Rail;1176;47715;2.47;1.61;1.82
+National Rail/DLR;1;263;0.38;0;0.01
+National Rail/Overground;164;6665;2.46;0.22;0.25
+Tram;122;9583;1.27;0.17;0.37
+TOTAL;73260;2623487;2.79;100;100
